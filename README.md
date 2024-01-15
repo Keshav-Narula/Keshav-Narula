@@ -9,7 +9,7 @@
 📚 Education:  
 - Bachelor of Computer Science: Computer & Internet Security Stream from Carleton University (Third year)
 
-📫 ## Contacts
+📫 Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavnarula)
 - 📧 Email: keshavnarula@cmail.carleton.ca  
 
