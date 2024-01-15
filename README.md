@@ -1,4 +1,4 @@
-### Hi, I'm Keshav 👋
+# Hi, I'm Keshav 👋
 ## Computer Science Student @ Carleton University
 
 ## About Me
